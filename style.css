@@ -350,7 +350,7 @@ section.panel {
 
             div.intro {
                 div.image.spotting {
-                    background: url(/portfolio/assets/spotting.png);
+                    background: url(/pflo/assets/spotting.png);
                     background-size: cover;
                     background-position: center;
                     border-radius: 20px;
@@ -361,7 +361,7 @@ section.panel {
 
             div.chicago {
                 div.image.chicago {
-                    background: url(/portfolio/assets/c90.jpg);
+                    background: url(/pflo/assets/c90.jpg);
                     background-size: cover;
                     background-position: center;
                     border-radius: 20px;
